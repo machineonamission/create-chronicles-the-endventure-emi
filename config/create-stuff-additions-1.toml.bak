@@ -1,6 +1,6 @@
 ["Jetpack Height Restriction"]
 1
-	enableAboveCloudEnchant = false
+	enableAboveCloudEnchant = true
 
 ["Jetpack/Grapplin Speed"]
 	brassJetpackSpeed = 0.06
